@@ -1,1 +1,4 @@
-- Do not require overlaying gazebo_plugins anymore. Maybe implement the modified plugin the overlay elsewhere in a PAL-specific package.
+Whenever possible, do not require overlaying packages:
+
+- gazebo_plugins: Maybe implement the modified plugin the overlay elsewhere in a PAL-specific package.
+- pr2_mechanism_model: Migrate to the JointGroupController in reem_controllers (needs testing first).
