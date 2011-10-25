@@ -1,0 +1,1 @@
+- Do not require overlaying gazebo_plugins anymore. Maybe implement the modified plugin the overlay elsewhere in a PAL-specific package.
