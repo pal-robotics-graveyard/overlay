@@ -1,4 +1,0 @@
-nav_msgs/Odometry pose     # message containing desired pose
----
-bool success                         # return true if spawn successful
-string status_message                # comments if available
